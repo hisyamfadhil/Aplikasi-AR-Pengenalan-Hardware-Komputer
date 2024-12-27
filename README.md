@@ -4,7 +4,7 @@ Aplikasi AR Pengenalan Hardware Komputer adalah sebuah aplikasi berbasis Augment
 ## Fitur Utama
 -Pengenalan Komponen Hardware
 Menampilkan informasi tentang berbagai bagian perangkat keras komputer seperti motherboard, CPU, RAM, kartu grafis, dan lainnya.
--Visualisasi 3D dengan AR
+-Visualisasi 3D dengan AR <br>
 Menggunakan teknologi AR untuk menampilkan model 3D dari komponen-komponen yang dipindai.
 -Interaktif dan Edukatif
 Memberikan penjelasan dan fungsi dari masing-masing komponen melalui model 3D dan teks interaktif.
